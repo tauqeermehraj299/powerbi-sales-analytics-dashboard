@@ -6,7 +6,7 @@ It includes data cleaning, transformation, visualization, and dashboard creation
 
 ## 🛠 Tools Used
 - Power BI Desktop
-- SQL (optional for data preparation)
+- SQL 
 - Python
 - Power Query
 
